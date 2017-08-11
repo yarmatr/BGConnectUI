@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<pcToLineNum>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\FirstProject\\source\\FirstProjectView.mc" lineNum="5" pc="268436230" symbol="initialize"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\FirstProject\\source\\FirstProjectView.mc" lineNum="6" pc="268436234" symbol="initialize"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\FirstProject\\source\\FirstProjectView.mc" lineNum="10" pc="268436253" symbol="onLayout"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\FirstProject\\source\\FirstProjectView.mc" lineNum="11" pc="268436257" symbol="onLayout"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\FirstProject\\source\\FirstProjectView.mc" lineNum="17" pc="268436295" symbol="onShow"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\FirstProject\\source\\FirstProjectView.mc" lineNum="21" pc="268436300" symbol="onUpdate"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\FirstProject\\source\\FirstProjectView.mc" lineNum="23" pc="268436304" symbol="onUpdate"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\FirstProject\\source\\FirstProjectView.mc" lineNum="29" pc="268436325" symbol="onHide"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\FirstProject\\source\\FirstProjectServiceDelegate.mc" lineNum="7" pc="268435456" symbol="initialize"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\FirstProject\\source\\FirstProjectServiceDelegate.mc" lineNum="8" pc="268435460" symbol="initialize"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\FirstProject\\source\\FirstProjectServiceDelegate.mc" lineNum="9" pc="268435481" symbol="initialize"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\FirstProject\\source\\FirstProjectServiceDelegate.mc" lineNum="10" pc="268435493" symbol="initialize"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\FirstProject\\source\\FirstProjectServiceDelegate.mc" lineNum="16" pc="268435512" symbol="onTemporalEvent"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\FirstProject\\source\\FirstProjectServiceDelegate.mc" lineNum="17" pc="268435516" symbol="onTemporalEvent"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\FirstProject\\source\\FirstProjectServiceDelegate.mc" lineNum="20" pc="268435529" symbol="makeWebRequest"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\FirstProject\\source\\FirstProjectServiceDelegate.mc" lineNum="21" pc="268435533" symbol="makeWebRequest"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\FirstProject\\source\\FirstProjectServiceDelegate.mc" lineNum="23" pc="268435554" symbol="makeWebRequest"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\FirstProject\\source\\FirstProjectServiceDelegate.mc" lineNum="25" pc="268435561" symbol="makeWebRequest"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\FirstProject\\source\\FirstProjectServiceDelegate.mc" lineNum="31" pc="268435609" symbol="makeWebRequest"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\FirstProject\\source\\FirstProjectServiceDelegate.mc" lineNum="39" pc="268435649" symbol="responseCallback"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\FirstProject\\source\\FirstProjectServiceDelegate.mc" lineNum="43" pc="268435653" symbol="responseCallback"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\FirstProject\\source\\FirstProjectServiceDelegate.mc" lineNum="44" pc="268435674" symbol="responseCallback"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\FirstProject\\source\\FirstProjectServiceDelegate.mc" lineNum="45" pc="268435692" symbol="responseCallback"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\FirstProject\\source\\FirstProjectServiceDelegate.mc" lineNum="46" pc="268435710" symbol="responseCallback"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\FirstProject\\source\\FirstProjectMenuDelegate.mc" lineNum="6" pc="268436330" symbol="initialize"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\FirstProject\\source\\FirstProjectMenuDelegate.mc" lineNum="7" pc="268436334" symbol="initialize"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\FirstProject\\source\\FirstProjectMenuDelegate.mc" lineNum="10" pc="268436353" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\FirstProject\\source\\FirstProjectMenuDelegate.mc" lineNum="11" pc="268436357" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\FirstProject\\source\\FirstProjectMenuDelegate.mc" lineNum="12" pc="268436368" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\FirstProject\\source\\FirstProjectMenuDelegate.mc" lineNum="14" pc="268436403" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\FirstProject\\source\\FirstProjectDelegate.mc" lineNum="5" pc="268436428" symbol="initialize"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\FirstProject\\source\\FirstProjectDelegate.mc" lineNum="6" pc="268436432" symbol="initialize"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\FirstProject\\source\\FirstProjectDelegate.mc" lineNum="9" pc="268436451" symbol="onMenu"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\FirstProject\\source\\FirstProjectDelegate.mc" lineNum="10" pc="268436455" symbol="onMenu"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\FirstProject\\source\\FirstProjectDelegate.mc" lineNum="11" pc="268436539" symbol="onMenu"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\FirstProject\\source\\FirstProjectApp.mc" lineNum="7" pc="268435729" symbol="initialize"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\FirstProject\\source\\FirstProjectApp.mc" lineNum="8" pc="268435733" symbol="initialize"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\FirstProject\\source\\FirstProjectApp.mc" lineNum="12" pc="268435752" symbol="onStart"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\FirstProject\\source\\FirstProjectApp.mc" lineNum="16" pc="268435757" symbol="onStop"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\FirstProject\\source\\FirstProjectApp.mc" lineNum="20" pc="268435762" symbol="getInitialView"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\FirstProject\\source\\FirstProjectApp.mc" lineNum="22" pc="268435766" symbol="getInitialView"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\FirstProject\\source\\FirstProjectApp.mc" lineNum="23" pc="268435789" symbol="getInitialView"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\FirstProject\\source\\FirstProjectApp.mc" lineNum="24" pc="268435810" symbol="getInitialView"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\FirstProject\\source\\FirstProjectApp.mc" lineNum="25" pc="268435822" symbol="getInitialView"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\FirstProject\\source\\FirstProjectApp.mc" lineNum="27" pc="268435876" symbol="getInitialView"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\FirstProject\\source\\FirstProjectApp.mc" lineNum="30" pc="268435897" symbol="getInitialView"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\FirstProject\\source\\FirstProjectApp.mc" lineNum="31" pc="268435918" symbol="getInitialView"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\FirstProject\\source\\FirstProjectApp.mc" lineNum="32" pc="268435951" symbol="getInitialView"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\FirstProject\\source\\FirstProjectApp.mc" lineNum="35" pc="268436019" symbol="getServiceDelegate"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\FirstProject\\source\\FirstProjectApp.mc" lineNum="36" pc="268436023" symbol="getServiceDelegate"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\FirstProject\\source\\FirstProjectApp.mc" lineNum="37" pc="268436044" symbol="getServiceDelegate"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\FirstProject\\source\\FirstProjectApp.mc" lineNum="40" pc="268436082" symbol="onBackgroundData"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\FirstProject\\source\\FirstProjectApp.mc" lineNum="41" pc="268436086" symbol="onBackgroundData"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\FirstProject\\source\\FirstProjectApp.mc" lineNum="46" pc="268436103" symbol="onBackgroundData"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\FirstProject\\source\\FirstProjectApp.mc" lineNum="47" pc="268436124" symbol="onBackgroundData"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\FirstProject\\source\\FirstProjectApp.mc" lineNum="49" pc="268436142" symbol="onBackgroundData"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\FirstProject\\source\\FirstProjectApp.mc" lineNum="50" pc="268436174" symbol="onBackgroundData"/>
+<entry filename="Rez" lineNum="15" pc="268436543" symbol="initialize"/>
+<entry filename="Rez" lineNum="16" pc="268436547" symbol="initialize"/>
+<entry filename="Rez" lineNum="17" pc="268436565" symbol="initialize"/>
+<entry filename="Rez" lineNum="18" pc="268436617" symbol="initialize"/>
+<entry filename="Rez" lineNum="34" pc="268436670" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="36" pc="268436682" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="37" pc="268436845" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="38" pc="268436870" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="39" pc="268436922" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="40" pc="268437038" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="43" pc="268437090" symbol="MainLayout"/>
+</pcToLineNum>
+<symbolTable>
+<entry id="8388644" module="true" symbol="System"/>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry id="9" object="true" symbol="FirstProjectView"/>
+<entry id="8389349" symbol="justification"/>
+<entry field="true" id="8388611" module="true" symbol="Toybox"/>
+<entry id="19" object="true" symbol="MainMenu"/>
+<entry id="8388770" module="true" object="true" symbol="Strings"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry id="20" method="true" symbol="MainLayout"/>
+<entry id="8388769" module="true" object="true" symbol="Rez"/>
+<entry id="8389123" method="true" symbol="onShow"/>
+<entry id="8389835" method="true" symbol="makeWebRequest"/>
+<entry id="12" object="true" symbol="FirstProjectDelegate"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry id="14" method="true" symbol="responseCallback"/>
+<entry field="true" id="24" symbol="AppName"/>
+<entry id="25" symbol="methods"/>
+<entry id="8389080" method="true" symbol="onMenu"/>
+<entry id="10" object="true" symbol="FirstProjectServiceDelegate"/>
+<entry id="8390146" module="true" symbol="Background"/>
+<entry id="27" symbol="item_2"/>
+<entry id="26" symbol="item_1"/>
+<entry field="true" id="18" symbol="LauncherIcon"/>
+<entry field="true" id="22" symbol="menu_label_2"/>
+<entry field="true" id="21" symbol="menu_label_1"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry field="true" id="8389065" symbol="locY"/>
+<entry field="true" id="8389064" symbol="locX"/>
+<entry id="8388771" module="true" object="true" symbol="Drawables"/>
+<entry id="8389122" method="true" symbol="onLayout"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry field="true" id="17" symbol="id_monkey"/>
+<entry id="8389348" symbol="font"/>
+<entry id="8390170" method="true" symbol="onBackgroundData"/>
+<entry id="8389347" symbol="color"/>
+<entry id="8389109" method="true" symbol="onMenuItem"/>
+<entry id="11" object="true" symbol="FirstProjectMenuDelegate"/>
+<entry id="8390169" method="true" symbol="getServiceDelegate"/>
+<entry id="8390148" method="true" symbol="onTemporalEvent"/>
+<entry id="16" module="true" symbol="Layouts"/>
+<entry field="true" id="23" symbol="prompt"/>
+<entry id="8390147" object="true" symbol="ServiceDelegate"/>
+<entry id="13" object="true" symbol="FirstProjectApp"/>
+<entry id="8389125" method="true" symbol="onHide"/>
+<entry id="8389345" symbol="rezId"/>
+<entry id="8390088" module="true" object="true" symbol="JsonData"/>
+<entry id="8389844" symbol="responseType"/>
+<entry id="8389346" symbol="text"/>
+<entry field="true" id="8389063" symbol="identifier"/>
+<entry id="15" module="true" symbol="Menus"/>
+<entry id="8388772" module="true" object="true" symbol="Fonts"/>
+</symbolTable>
+<localVars>
+<entry endPc="268436295" name="dc" stackId="1" startPc="268436253"/>
+<entry endPc="268436325" name="dc" stackId="1" startPc="268436300"/>
+<entry endPc="268435648" name="options" stackId="2" startPc="268435533"/>
+<entry endPc="268435648" name="url" stackId="1" startPc="268435533"/>
+<entry endPc="268435729" name="responseCode" stackId="1" startPc="268435649"/>
+<entry endPc="268435729" name="data" stackId="2" startPc="268435649"/>
+<entry endPc="268436428" name="item" stackId="1" startPc="268436353"/>
+<entry endPc="268435757" name="state" stackId="1" startPc="268435752"/>
+<entry endPc="268435762" name="state" stackId="1" startPc="268435757"/>
+<entry endPc="268436191" name="data" stackId="1" startPc="268436082"/>
+<entry endPc="268437117" name="rez_cmp_local_bitmap_U2HBG4QRI8_fontHeight" stackId="3" startPc="268436682"/>
+<entry endPc="268437117" name="rez_cmp_local_bitmap_U2HBG4QRI8" stackId="2" startPc="268436682"/>
+<entry endPc="268437117" name="rez_cmp_local_bitmap_id_monkey" stackId="4" startPc="268436682"/>
+<entry endPc="268437118" name="dc" stackId="1" startPc="268436670"/>
+</localVars>
+<annotations/>
+<functions>
+<functionEntry accessMode="public" name="initialize" parent="FirstProjectView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onLayout" parent="FirstProjectView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onShow" parent="FirstProjectView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onUpdate" parent="FirstProjectView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onHide" parent="FirstProjectView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="FirstProjectServiceDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onTemporalEvent" parent="FirstProjectServiceDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="makeWebRequest" parent="FirstProjectServiceDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="responseCallback" parent="FirstProjectServiceDelegate">
+<param id="responseCode"/>
+<param id="data"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="FirstProjectMenuDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onMenuItem" parent="FirstProjectMenuDelegate">
+<param id="item"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="FirstProjectDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onMenu" parent="FirstProjectDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="FirstProjectApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onStart" parent="FirstProjectApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onStop" parent="FirstProjectApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getInitialView" parent="FirstProjectApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getServiceDelegate" parent="FirstProjectApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onBackgroundData" parent="FirstProjectApp">
+<param id="data"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="MainMenu">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="MainLayout" parent="Layouts">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Draw the layout<br/> param The context<br/></div>]]></documentation>
+</functionEntry>
+</functions>
+<dataEntryOffsetMappings>
+<dataEntry offset="87" parentId="" symbolId="globals" type="module"/>
+<dataEntry offset="214" parentId="globals" symbolId="FirstProjectApp" type="class"/>
+<dataEntry offset="301" parentId="globals" symbolId="FirstProjectServiceDelegate" type="class"/>
+<dataEntry offset="1060" parentId="globals" symbolId="FirstProjectMenuDelegate" type="class"/>
+<dataEntry offset="1115" parentId="globals" symbolId="Rez" type="module"/>
+<dataEntry offset="1194" parentId="Rez" symbolId="Drawables" type="module"/>
+<dataEntry offset="1241" parentId="Rez" symbolId="Menus" type="module"/>
+<dataEntry offset="1280" parentId="Menus" symbolId="MainMenu" type="class"/>
+<dataEntry offset="1327" parentId="Rez" symbolId="Fonts" type="module"/>
+<dataEntry offset="1358" parentId="Rez" symbolId="JsonData" type="module"/>
+<dataEntry offset="1389" parentId="Rez" symbolId="Layouts" type="module"/>
+<dataEntry offset="1428" parentId="Rez" symbolId="Strings" type="module"/>
+<dataEntry offset="1491" parentId="globals" symbolId="FirstProjectDelegate" type="class"/>
+<dataEntry offset="1546" parentId="globals" symbolId="FirstProjectView" type="class"/>
+</dataEntryOffsetMappings>
+</debugInfo>
