@@ -3,10 +3,10 @@ using Toybox.Communications as Comm;
 using Toybox.System;
 
 (:background)
-class FirstProjectServiceDelegate extends System.ServiceDelegate {
+class BGConnectUIServiceDelegate extends System.ServiceDelegate {
 	function initialize() {
 		System.println("****initializing service delegate****");
-		makeWebRequest();
+		// makeWebRequest();
         ServiceDelegate.initialize();
     }
 
@@ -28,7 +28,7 @@ class FirstProjectServiceDelegate extends System.ServiceDelegate {
 		};
 		
 		
-		Communications.makeWebRequest(
+		Comm.makeWebRequest(
             url,
             null,
             options,
@@ -43,6 +43,24 @@ class FirstProjectServiceDelegate extends System.ServiceDelegate {
         System.println("****handling response callback****");
         System.println(responseCode);
         System.println(data);
-        Background.exit(data);
+        
+        var parsedData = null;
+        
+        // divide mg/dL by 18 to get mmol/L
+        if (responseCode == 200) {
+        	System.println("****inside data check****");
+        	System.println(data[0]);
+        	var mmol = data[0].get("sgv") / 18;
+        	System.println(mmol);
+        	var dateString = data[0].get("dateString");
+        	System.println(dateString);
+        	parsedData = {
+        		"mmol" => mmol, 
+        		"dateString" => dateString
+        	};
+        	System.println(parsedData);
+        }
+        
+        Background.exit(parsedData);
     }
 }

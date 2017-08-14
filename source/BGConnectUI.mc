@@ -2,7 +2,7 @@ using Toybox.Application as App;
 using Toybox.WatchUi as Ui;
 using Toybox.System as Sys; 
 
-class FirstProjectApp extends App.AppBase {
+class BGConnectUI extends App.AppBase {
 
     function initialize() {
         AppBase.initialize();
@@ -29,12 +29,12 @@ class FirstProjectApp extends App.AppBase {
     	
     	Sys.println("****existing data****");
     	Sys.println(Background.getBackgroundData());
-        return [ new FirstProjectView(), new FirstProjectDelegate() ];
+        return [ new BGConnectUIView() ];
     }
     
     function getServiceDelegate() {
     	Sys.println("****setting service delegate****");
-    	return [new FirstProjectServiceDelegate()];
+    	return [new BGConnectUIServiceDelegate()];
     }
     
     function onBackgroundData(data) {

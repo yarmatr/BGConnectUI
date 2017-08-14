@@ -1,4 +1,6 @@
 <layout id="MainLayout">
-    <label x="center" y="5" text="@Strings.prompt" color="Gfx.COLOR_WHITE" justification="Gfx.TEXT_JUSTIFY_CENTER" />
-    <bitmap id="id_monkey" x="center" y="30" filename="../drawables/monkey.png" />
+    <label id="LatestSugar" x="150" y="50" font="Gfx.FONT_SYSTEM_TINY" justification="Gfx.TEXT_JUSTIFY_LEFT" color="Gfx.COLOR_WHITE" />
+    <label id="LatestSugarLabel" x="140" y="50" font="Gfx.FONT_TINY" justification="Gfx.TEXT_JUSTIFY_RIGHT" color="Gfx.COLOR_BLUE" />
+	<label id="LatestSugarTime" x="150" y="100" font="Gfx.FONT_TINY" justification="Gfx.TEXT_JUSTIFY_LEFT" color="Gfx.COLOR_WHITE" />
+    <label id="LatestSugarTimeLabel" x="140" y="100" font="Gfx.FONT_TINY" justification="Gfx.TEXT_JUSTIFY_RIGHT" color="Gfx.COLOR_BLUE" />
 </layout>

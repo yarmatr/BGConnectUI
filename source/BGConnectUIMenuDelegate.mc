@@ -1,7 +1,7 @@
 using Toybox.WatchUi as Ui;
 using Toybox.System as Sys;
 
-class FirstProjectMenuDelegate extends Ui.MenuInputDelegate {
+class BGConnectUIMenuDelegate extends Ui.MenuInputDelegate {
 
     function initialize() {
         MenuInputDelegate.initialize();
