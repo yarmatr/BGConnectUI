@@ -1,175 +1,374 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <debugInfo>
 <pcToLineNum>
-<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIView.mc" lineNum="7" pc="268436384" symbol="initialize"/>
-<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIView.mc" lineNum="8" pc="268436388" symbol="initialize"/>
-<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIView.mc" lineNum="12" pc="268436407" symbol="onLayout"/>
-<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIView.mc" lineNum="13" pc="268436411" symbol="onLayout"/>
-<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIView.mc" lineNum="19" pc="268436449" symbol="onShow"/>
-<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIView.mc" lineNum="21" pc="268436453" symbol="onShow"/>
-<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIView.mc" lineNum="22" pc="268436484" symbol="onShow"/>
-<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIView.mc" lineNum="23" pc="268436491" symbol="onShow"/>
-<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIView.mc" lineNum="24" pc="268436498" symbol="onShow"/>
-<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIView.mc" lineNum="25" pc="268436549" symbol="onShow"/>
-<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIView.mc" lineNum="26" pc="268436576" symbol="onShow"/>
-<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIView.mc" lineNum="29" pc="268436597" symbol="onShow"/>
-<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIView.mc" lineNum="30" pc="268436615" symbol="onShow"/>
-<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIView.mc" lineNum="32" pc="268436633" symbol="onShow"/>
-<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIView.mc" lineNum="33" pc="268436657" symbol="onShow"/>
-<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIView.mc" lineNum="35" pc="268436674" symbol="onShow"/>
-<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIView.mc" lineNum="36" pc="268436698" symbol="onShow"/>
-<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIView.mc" lineNum="38" pc="268436712" symbol="onShow"/>
-<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIView.mc" lineNum="39" pc="268436736" symbol="onShow"/>
-<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIView.mc" lineNum="41" pc="268436753" symbol="onShow"/>
-<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIView.mc" lineNum="42" pc="268436777" symbol="onShow"/>
-<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIView.mc" lineNum="47" pc="268436792" symbol="onUpdate"/>
-<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIView.mc" lineNum="50" pc="268436796" symbol="onUpdate"/>
-<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIView.mc" lineNum="82" pc="268436817" symbol="onHide"/>
-<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIServiceDelegate.mc" lineNum="7" pc="268435456" symbol="initialize"/>
-<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIServiceDelegate.mc" lineNum="8" pc="268435460" symbol="initialize"/>
-<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIServiceDelegate.mc" lineNum="10" pc="268435481" symbol="initialize"/>
-<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIServiceDelegate.mc" lineNum="16" pc="268435500" symbol="onTemporalEvent"/>
-<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIServiceDelegate.mc" lineNum="17" pc="268435504" symbol="onTemporalEvent"/>
-<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIServiceDelegate.mc" lineNum="20" pc="268435517" symbol="makeWebRequest"/>
-<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIServiceDelegate.mc" lineNum="21" pc="268435521" symbol="makeWebRequest"/>
-<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIServiceDelegate.mc" lineNum="23" pc="268435542" symbol="makeWebRequest"/>
-<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIServiceDelegate.mc" lineNum="25" pc="268435549" symbol="makeWebRequest"/>
-<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIServiceDelegate.mc" lineNum="31" pc="268435597" symbol="makeWebRequest"/>
-<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIServiceDelegate.mc" lineNum="39" pc="268435635" symbol="responseCallback"/>
-<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIServiceDelegate.mc" lineNum="43" pc="268435639" symbol="responseCallback"/>
-<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIServiceDelegate.mc" lineNum="44" pc="268435660" symbol="responseCallback"/>
-<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIServiceDelegate.mc" lineNum="45" pc="268435678" symbol="responseCallback"/>
-<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIServiceDelegate.mc" lineNum="47" pc="268435696" symbol="responseCallback"/>
-<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIServiceDelegate.mc" lineNum="50" pc="268435699" symbol="responseCallback"/>
-<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIServiceDelegate.mc" lineNum="51" pc="268435710" symbol="responseCallback"/>
-<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIServiceDelegate.mc" lineNum="52" pc="268435731" symbol="responseCallback"/>
-<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIServiceDelegate.mc" lineNum="53" pc="268435755" symbol="responseCallback"/>
-<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIServiceDelegate.mc" lineNum="54" pc="268435785" symbol="responseCallback"/>
-<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIServiceDelegate.mc" lineNum="55" pc="268435803" symbol="responseCallback"/>
-<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIServiceDelegate.mc" lineNum="56" pc="268435827" symbol="responseCallback"/>
-<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIServiceDelegate.mc" lineNum="57" pc="268435845" symbol="responseCallback"/>
-<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIServiceDelegate.mc" lineNum="61" pc="268435873" symbol="responseCallback"/>
-<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIServiceDelegate.mc" lineNum="64" pc="268435894" symbol="responseCallback"/>
-<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIMenuDelegate.mc" lineNum="6" pc="268436822" symbol="initialize"/>
-<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIMenuDelegate.mc" lineNum="7" pc="268436826" symbol="initialize"/>
-<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIMenuDelegate.mc" lineNum="10" pc="268436845" symbol="onMenuItem"/>
-<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIMenuDelegate.mc" lineNum="11" pc="268436849" symbol="onMenuItem"/>
-<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIMenuDelegate.mc" lineNum="12" pc="268436860" symbol="onMenuItem"/>
-<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIMenuDelegate.mc" lineNum="14" pc="268436895" symbol="onMenuItem"/>
-<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIDelegate.mc" lineNum="5" pc="268436920" symbol="initialize"/>
-<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIDelegate.mc" lineNum="6" pc="268436924" symbol="initialize"/>
-<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIDelegate.mc" lineNum="9" pc="268436943" symbol="onMenu"/>
-<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIDelegate.mc" lineNum="10" pc="268436947" symbol="onMenu"/>
-<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIDelegate.mc" lineNum="11" pc="268437031" symbol="onMenu"/>
-<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUI.mc" lineNum="7" pc="268435913" symbol="initialize"/>
-<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUI.mc" lineNum="8" pc="268435917" symbol="initialize"/>
-<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUI.mc" lineNum="12" pc="268435936" symbol="onStart"/>
-<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUI.mc" lineNum="16" pc="268435941" symbol="onStop"/>
-<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUI.mc" lineNum="20" pc="268435946" symbol="getInitialView"/>
-<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUI.mc" lineNum="22" pc="268435950" symbol="getInitialView"/>
-<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUI.mc" lineNum="23" pc="268435973" symbol="getInitialView"/>
-<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUI.mc" lineNum="24" pc="268435994" symbol="getInitialView"/>
-<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUI.mc" lineNum="25" pc="268436006" symbol="getInitialView"/>
-<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUI.mc" lineNum="27" pc="268436060" symbol="getInitialView"/>
-<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUI.mc" lineNum="30" pc="268436081" symbol="getInitialView"/>
-<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUI.mc" lineNum="31" pc="268436102" symbol="getInitialView"/>
-<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUI.mc" lineNum="32" pc="268436135" symbol="getInitialView"/>
-<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUI.mc" lineNum="35" pc="268436173" symbol="getServiceDelegate"/>
-<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUI.mc" lineNum="36" pc="268436177" symbol="getServiceDelegate"/>
-<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUI.mc" lineNum="37" pc="268436198" symbol="getServiceDelegate"/>
-<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUI.mc" lineNum="40" pc="268436236" symbol="onBackgroundData"/>
-<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUI.mc" lineNum="41" pc="268436240" symbol="onBackgroundData"/>
-<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUI.mc" lineNum="46" pc="268436257" symbol="onBackgroundData"/>
-<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUI.mc" lineNum="47" pc="268436278" symbol="onBackgroundData"/>
-<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUI.mc" lineNum="49" pc="268436296" symbol="onBackgroundData"/>
-<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUI.mc" lineNum="50" pc="268436328" symbol="onBackgroundData"/>
-<entry filename="Rez" lineNum="15" pc="268437035" symbol="initialize"/>
-<entry filename="Rez" lineNum="16" pc="268437039" symbol="initialize"/>
-<entry filename="Rez" lineNum="17" pc="268437057" symbol="initialize"/>
-<entry filename="Rez" lineNum="18" pc="268437109" symbol="initialize"/>
-<entry filename="Rez" lineNum="33" pc="268437162" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="35" pc="268437174" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="36" pc="268437307" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="37" pc="268437440" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="38" pc="268437573" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="41" pc="268437706" symbol="MainLayout"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIView.mc" lineNum="35" pc="268436215" symbol="initialize"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIView.mc" lineNum="36" pc="268436219" symbol="initialize"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIView.mc" lineNum="37" pc="268436237" symbol="initialize"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIView.mc" lineNum="38" pc="268436247" symbol="initialize"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIView.mc" lineNum="39" pc="268436260" symbol="initialize"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIView.mc" lineNum="40" pc="268436303" symbol="initialize"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIView.mc" lineNum="41" pc="268436346" symbol="initialize"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIView.mc" lineNum="42" pc="268436389" symbol="initialize"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIView.mc" lineNum="46" pc="268436433" symbol="onLayout"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIView.mc" lineNum="47" pc="268436437" symbol="onLayout"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIView.mc" lineNum="53" pc="268436475" symbol="onShow"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIView.mc" lineNum="54" pc="268436479" symbol="onShow"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIView.mc" lineNum="55" pc="268436496" symbol="onShow"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIView.mc" lineNum="75" pc="268436513" symbol="onShow"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIView.mc" lineNum="76" pc="268436529" symbol="onShow"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIView.mc" lineNum="77" pc="268436542" symbol="onShow"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIView.mc" lineNum="78" pc="268436553" symbol="onShow"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIView.mc" lineNum="92" pc="268436569" symbol="onShow"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIView.mc" lineNum="93" pc="268436585" symbol="onShow"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIView.mc" lineNum="94" pc="268436601" symbol="onShow"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIView.mc" lineNum="96" pc="268436617" symbol="onShow"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIView.mc" lineNum="97" pc="268436624" symbol="onShow"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIView.mc" lineNum="98" pc="268436631" symbol="onShow"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIView.mc" lineNum="99" pc="268436638" symbol="onShow"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIView.mc" lineNum="100" pc="268436642" symbol="onShow"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIView.mc" lineNum="102" pc="268436649" symbol="onShow"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIView.mc" lineNum="103" pc="268436700" symbol="onShow"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIView.mc" lineNum="104" pc="268436707" symbol="onShow"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIView.mc" lineNum="105" pc="268436723" symbol="onShow"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIView.mc" lineNum="106" pc="268436745" symbol="onShow"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIView.mc" lineNum="107" pc="268436767" symbol="onShow"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIView.mc" lineNum="108" pc="268436789" symbol="onShow"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIView.mc" lineNum="109" pc="268436813" symbol="onShow"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIView.mc" lineNum="110" pc="268436826" symbol="onShow"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIView.mc" lineNum="111" pc="268436839" symbol="onShow"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIView.mc" lineNum="113" pc="268436855" symbol="onShow"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIView.mc" lineNum="114" pc="268436868" symbol="onShow"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIView.mc" lineNum="115" pc="268436881" symbol="onShow"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIView.mc" lineNum="118" pc="268436897" symbol="onShow"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIView.mc" lineNum="119" pc="268436910" symbol="onShow"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIView.mc" lineNum="120" pc="268436932" symbol="onShow"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIView.mc" lineNum="121" pc="268436954" symbol="onShow"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIView.mc" lineNum="122" pc="268436976" symbol="onShow"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIView.mc" lineNum="123" pc="268436989" symbol="onShow"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIView.mc" lineNum="124" pc="268437002" symbol="onShow"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIView.mc" lineNum="125" pc="268437015" symbol="onShow"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIView.mc" lineNum="126" pc="268437035" symbol="onShow"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIView.mc" lineNum="127" pc="268437039" symbol="onShow"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIView.mc" lineNum="128" pc="268437046" symbol="onShow"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIView.mc" lineNum="132" pc="268437056" symbol="onShow"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIView.mc" lineNum="133" pc="268437084" symbol="onShow"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIView.mc" lineNum="134" pc="268437097" symbol="onShow"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIView.mc" lineNum="137" pc="268437113" symbol="onShow"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIView.mc" lineNum="140" pc="268437126" symbol="onShow"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIView.mc" lineNum="141" pc="268437150" symbol="onShow"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIView.mc" lineNum="194" pc="268437169" symbol="onShow"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIView.mc" lineNum="195" pc="268437176" symbol="onShow"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIView.mc" lineNum="197" pc="268437198" symbol="onShow"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIView.mc" lineNum="198" pc="268437229" symbol="onShow"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIView.mc" lineNum="199" pc="268437236" symbol="onShow"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIView.mc" lineNum="200" pc="268437243" symbol="onShow"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIView.mc" lineNum="201" pc="268437294" symbol="onShow"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIView.mc" lineNum="202" pc="268437312" symbol="onShow"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIView.mc" lineNum="205" pc="268437333" symbol="onShow"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIView.mc" lineNum="206" pc="268437357" symbol="onShow"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIView.mc" lineNum="210" pc="268437381" symbol="onUpdate"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIView.mc" lineNum="211" pc="268437385" symbol="onUpdate"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIView.mc" lineNum="214" pc="268437402" symbol="onUpdate"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIView.mc" lineNum="215" pc="268437419" symbol="onUpdate"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIView.mc" lineNum="216" pc="268437429" symbol="onUpdate"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIView.mc" lineNum="217" pc="268437441" symbol="onUpdate"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIView.mc" lineNum="218" pc="268437452" symbol="onUpdate"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIView.mc" lineNum="221" pc="268437468" symbol="onUpdate"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIView.mc" lineNum="223" pc="268437486" symbol="onUpdate"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIView.mc" lineNum="226" pc="268437557" symbol="onUpdate"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIView.mc" lineNum="227" pc="268437581" symbol="onUpdate"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIView.mc" lineNum="265" pc="268437595" symbol="onUpdate"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIView.mc" lineNum="266" pc="268437612" symbol="onUpdate"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIView.mc" lineNum="267" pc="268437622" symbol="onUpdate"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIView.mc" lineNum="269" pc="268437650" symbol="onUpdate"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIView.mc" lineNum="270" pc="268437661" symbol="onUpdate"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIView.mc" lineNum="274" pc="268437671" symbol="onUpdate"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIView.mc" lineNum="277" pc="268437691" symbol="onUpdate"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIView.mc" lineNum="278" pc="268437736" symbol="onUpdate"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIView.mc" lineNum="280" pc="268437812" symbol="onUpdate"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIView.mc" lineNum="281" pc="268437829" symbol="onUpdate"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIView.mc" lineNum="282" pc="268437839" symbol="onUpdate"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIView.mc" lineNum="283" pc="268437844" symbol="onUpdate"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIView.mc" lineNum="286" pc="268437883" symbol="onUpdate"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIView.mc" lineNum="287" pc="268437893" symbol="onUpdate"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIView.mc" lineNum="288" pc="268437904" symbol="onUpdate"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIView.mc" lineNum="291" pc="268437943" symbol="onUpdate"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIView.mc" lineNum="292" pc="268437953" symbol="onUpdate"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIView.mc" lineNum="293" pc="268437964" symbol="onUpdate"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIView.mc" lineNum="296" pc="268438003" symbol="onUpdate"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIView.mc" lineNum="297" pc="268438010" symbol="onUpdate"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIView.mc" lineNum="298" pc="268438017" symbol="onUpdate"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIView.mc" lineNum="299" pc="268438027" symbol="onUpdate"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIView.mc" lineNum="300" pc="268438043" symbol="onUpdate"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIView.mc" lineNum="301" pc="268438050" symbol="onUpdate"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIView.mc" lineNum="302" pc="268438060" symbol="onUpdate"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIView.mc" lineNum="303" pc="268438074" symbol="onUpdate"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIView.mc" lineNum="304" pc="268438114" symbol="onUpdate"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIView.mc" lineNum="305" pc="268438134" symbol="onUpdate"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIView.mc" lineNum="306" pc="268438152" symbol="onUpdate"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIView.mc" lineNum="307" pc="268438166" symbol="onUpdate"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIView.mc" lineNum="308" pc="268438214" symbol="onUpdate"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIView.mc" lineNum="309" pc="268438236" symbol="onUpdate"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIView.mc" lineNum="310" pc="268438250" symbol="onUpdate"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIView.mc" lineNum="312" pc="268438307" symbol="onUpdate"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIView.mc" lineNum="314" pc="268438350" symbol="onUpdate"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIView.mc" lineNum="316" pc="268438390" symbol="onUpdate"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIView.mc" lineNum="319" pc="268438413" symbol="onUpdate"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIView.mc" lineNum="320" pc="268438444" symbol="onUpdate"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIView.mc" lineNum="321" pc="268438451" symbol="onUpdate"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIView.mc" lineNum="322" pc="268438458" symbol="onUpdate"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIView.mc" lineNum="323" pc="268438509" symbol="onUpdate"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIView.mc" lineNum="324" pc="268438527" symbol="onUpdate"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIView.mc" lineNum="327" pc="268438548" symbol="onUpdate"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIView.mc" lineNum="328" pc="268438572" symbol="onUpdate"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIServiceDelegate.mc" lineNum="9" pc="268435456" symbol="initialize"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIServiceDelegate.mc" lineNum="10" pc="268435460" symbol="initialize"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIServiceDelegate.mc" lineNum="16" pc="268435479" symbol="onTemporalEvent"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIServiceDelegate.mc" lineNum="17" pc="268435483" symbol="onTemporalEvent"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIServiceDelegate.mc" lineNum="20" pc="268435496" symbol="makeWebRequest"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIServiceDelegate.mc" lineNum="21" pc="268435500" symbol="makeWebRequest"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIServiceDelegate.mc" lineNum="23" pc="268435507" symbol="makeWebRequest"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIServiceDelegate.mc" lineNum="29" pc="268435555" symbol="makeWebRequest"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIServiceDelegate.mc" lineNum="37" pc="268435593" symbol="responseCallback"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIServiceDelegate.mc" lineNum="41" pc="268435597" symbol="responseCallback"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIServiceDelegate.mc" lineNum="44" pc="268435600" symbol="responseCallback"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIServiceDelegate.mc" lineNum="45" pc="268435611" symbol="responseCallback"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIServiceDelegate.mc" lineNum="46" pc="268435650" symbol="responseCallback"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIServiceDelegate.mc" lineNum="47" pc="268435680" symbol="responseCallback"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIServiceDelegate.mc" lineNum="48" pc="268435710" symbol="responseCallback"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIServiceDelegate.mc" lineNum="49" pc="268435741" symbol="responseCallback"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIServiceDelegate.mc" lineNum="50" pc="268435794" symbol="responseCallback"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIServiceDelegate.mc" lineNum="56" pc="268435839" symbol="responseCallback"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIMenuDelegate.mc" lineNum="6" pc="268438596" symbol="initialize"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIMenuDelegate.mc" lineNum="7" pc="268438600" symbol="initialize"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIMenuDelegate.mc" lineNum="10" pc="268438619" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIMenuDelegate.mc" lineNum="11" pc="268438623" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIMenuDelegate.mc" lineNum="12" pc="268438634" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIMenuDelegate.mc" lineNum="14" pc="268438669" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIDelegate.mc" lineNum="5" pc="268438694" symbol="initialize"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIDelegate.mc" lineNum="6" pc="268438698" symbol="initialize"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIDelegate.mc" lineNum="9" pc="268438717" symbol="onMenu"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIDelegate.mc" lineNum="10" pc="268438721" symbol="onMenu"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUIDelegate.mc" lineNum="11" pc="268438805" symbol="onMenu"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUI.mc" lineNum="7" pc="268435858" symbol="initialize"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUI.mc" lineNum="8" pc="268435862" symbol="initialize"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUI.mc" lineNum="12" pc="268435881" symbol="onStart"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUI.mc" lineNum="16" pc="268435886" symbol="onStop"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUI.mc" lineNum="20" pc="268435891" symbol="getInitialView"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUI.mc" lineNum="22" pc="268435895" symbol="getInitialView"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUI.mc" lineNum="23" pc="268435918" symbol="getInitialView"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUI.mc" lineNum="24" pc="268435939" symbol="getInitialView"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUI.mc" lineNum="25" pc="268435951" symbol="getInitialView"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUI.mc" lineNum="27" pc="268436005" symbol="getInitialView"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUI.mc" lineNum="30" pc="268436026" symbol="getInitialView"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUI.mc" lineNum="33" pc="268436064" symbol="getServiceDelegate"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUI.mc" lineNum="34" pc="268436068" symbol="getServiceDelegate"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUI.mc" lineNum="37" pc="268436106" symbol="onBackgroundData"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUI.mc" lineNum="38" pc="268436110" symbol="onBackgroundData"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUI.mc" lineNum="44" pc="268436127" symbol="onBackgroundData"/>
+<entry filename="C:\\Users\\cjjon\\eclipse-workspace\\BGConnectUI\\source\\BGConnectUI.mc" lineNum="45" pc="268436159" symbol="onBackgroundData"/>
+<entry filename="Rez" lineNum="23" pc="268438809" symbol="initialize"/>
+<entry filename="Rez" lineNum="24" pc="268438813" symbol="initialize"/>
+<entry filename="Rez" lineNum="25" pc="268438831" symbol="initialize"/>
+<entry filename="Rez" lineNum="26" pc="268438883" symbol="initialize"/>
+<entry filename="Rez" lineNum="45" pc="268438936" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="47" pc="268438948" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="48" pc="268439096" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="49" pc="268439121" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="50" pc="268439167" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="51" pc="268439330" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="52" pc="268439355" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="53" pc="268439407" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="54" pc="268439453" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="55" pc="268439601" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="56" pc="268439626" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="57" pc="268439672" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="58" pc="268439835" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="59" pc="268439860" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="60" pc="268439912" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="61" pc="268439958" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="62" pc="268440106" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="63" pc="268440131" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="64" pc="268440177" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="65" pc="268440340" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="66" pc="268440365" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="67" pc="268440417" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="68" pc="268440463" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="69" pc="268440611" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="70" pc="268440636" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="71" pc="268440682" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="72" pc="268440845" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="73" pc="268440870" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="74" pc="268440922" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="75" pc="268440968" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="76" pc="268441116" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="77" pc="268441141" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="78" pc="268441187" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="79" pc="268441274" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="82" pc="268441407" symbol="MainLayout"/>
 </pcToLineNum>
 <symbolTable>
 <entry id="8388644" module="true" symbol="System"/>
 <entry id="8389124" method="true" symbol="onUpdate"/>
 <entry id="8389349" symbol="justification"/>
+<entry field="true" id="51" symbol="mPhoneXPosition"/>
+<entry field="true" id="18" symbol="bluetooth"/>
+<entry field="true" id="52" symbol="mMessageXPosition"/>
+<entry field="true" id="47" symbol="messageLogo"/>
+<entry field="true" id="41" symbol="mScreenHeight"/>
+<entry field="true" id="25" symbol="ColorBlue"/>
 <entry field="true" id="8388611" module="true" symbol="Toybox"/>
-<entry id="18" object="true" symbol="MainMenu"/>
+<entry id="8388645" module="true" symbol="Time"/>
+<entry id="21" object="true" symbol="MainMenu"/>
+<entry field="true" id="19" symbol="mail"/>
+<entry field="true" id="40" symbol="mDistanceConversion"/>
 <entry id="8388770" module="true" object="true" symbol="Strings"/>
+<entry field="true" id="39" symbol="mIs24Hour"/>
 <entry id="9" object="true" symbol="BGConnectUIView"/>
+<entry field="true" id="45" symbol="mBatteryIconOffsetY"/>
+<entry field="true" id="32" symbol="ColorWhite"/>
 <entry id="8389280" method="true" symbol="getInitialView"/>
-<entry id="19" method="true" symbol="MainLayout"/>
+<entry field="true" id="54" symbol="mPercentBatteryXPosition"/>
+<entry id="8388640" module="true" symbol="Lang"/>
+<entry id="22" method="true" symbol="MainLayout"/>
+<entry field="true" id="53" symbol="mAlarmXPosition"/>
+<entry field="true" id="31" symbol="ColorBlack"/>
 <entry id="8388769" module="true" object="true" symbol="Rez"/>
 <entry id="8389123" method="true" symbol="onShow"/>
+<entry id="8388924" module="true" symbol="Gregorian"/>
 <entry id="8389835" method="true" symbol="makeWebRequest"/>
 <entry id="10" object="true" symbol="BGConnectUIServiceDelegate"/>
+<entry field="true" id="37" symbol="HEART_RATE_SAMPLE_SIZE"/>
+<entry field="true" id="8388724" symbol="battery"/>
+<entry field="true" id="26" symbol="ColorRed"/>
+<entry field="true" id="44" symbol="mBatteryTextOffsetY"/>
+<entry field="true" id="43" symbol="mBatteryTextOffsetX"/>
+<entry field="true" id="27" symbol="ForegroundColorTitle"/>
 <entry id="8388702" method="true" symbol="initialize"/>
 <entry id="14" method="true" symbol="responseCallback"/>
-<entry field="true" id="23" symbol="AppName"/>
-<entry id="24" symbol="methods"/>
+<entry field="true" id="33" symbol="AppName"/>
+<entry id="56" symbol="methods"/>
 <entry id="8389080" method="true" symbol="onMenu"/>
+<entry field="true" id="48" symbol="batteryLogo"/>
+<entry field="true" id="50" symbol="mTimeFormat"/>
+<entry field="true" id="38" symbol="PART_NUMBER_920XT"/>
+<entry field="true" id="36" symbol="MOVE_WARNING_HIGH_THRESHOLD"/>
 <entry id="8390146" module="true" symbol="Background"/>
-<entry id="26" symbol="item_2"/>
-<entry id="25" symbol="item_1"/>
-<entry field="true" id="17" symbol="LauncherIcon"/>
-<entry field="true" id="21" symbol="menu_label_2"/>
-<entry field="true" id="20" symbol="menu_label_1"/>
+<entry id="58" symbol="item_2"/>
+<entry id="57" symbol="item_1"/>
+<entry field="true" id="20" symbol="LauncherIcon"/>
 <entry id="8389281" method="true" symbol="onStop"/>
 <entry field="true" id="8389065" symbol="locY"/>
 <entry field="true" id="8389064" symbol="locX"/>
 <entry id="8388771" module="true" object="true" symbol="Drawables"/>
 <entry id="8389122" method="true" symbol="onLayout"/>
+<entry field="true" id="49" symbol="bluetoothLogo"/>
+<entry field="true" id="29" symbol="ColorDarkGray"/>
 <entry id="8389279" method="true" symbol="onStart"/>
+<entry field="true" id="17" symbol="alarm"/>
 <entry id="13" object="true" symbol="BGConnectUI"/>
 <entry id="8389348" symbol="font"/>
 <entry id="11" object="true" symbol="BGConnectUIMenuDelegate"/>
+<entry field="true" id="23" symbol="ColorLightGray"/>
 <entry id="8390170" method="true" symbol="onBackgroundData"/>
 <entry id="8389347" symbol="color"/>
+<entry field="true" id="28" symbol="BackgroundColorTitle"/>
 <entry id="8389109" method="true" symbol="onMenuItem"/>
 <entry id="8390169" method="true" symbol="getServiceDelegate"/>
 <entry id="8390148" method="true" symbol="onTemporalEvent"/>
+<entry field="true" id="34" symbol="CaloriesLabel"/>
 <entry id="16" module="true" symbol="Layouts"/>
-<entry field="true" id="22" symbol="prompt"/>
+<entry field="true" id="42" symbol="mScreenWidth"/>
 <entry id="8390147" object="true" symbol="ServiceDelegate"/>
-<entry id="8389125" method="true" symbol="onHide"/>
+<entry field="true" id="24" symbol="MilesLabel"/>
+<entry field="true" id="30" symbol="MilitaryFormatTitle"/>
+<entry field="true" id="46" symbol="alarmLogo"/>
 <entry id="8390088" module="true" object="true" symbol="JsonData"/>
 <entry id="8389844" symbol="responseType"/>
+<entry field="true" id="35" symbol="MOVE_WARNING_MED_THRESHOLD"/>
+<entry field="true" id="55" symbol="mBottomRowY"/>
 <entry field="true" id="8389063" symbol="identifier"/>
 <entry id="12" object="true" symbol="BGConnectUIDelegate"/>
 <entry id="15" module="true" symbol="Menus"/>
 <entry id="8388772" module="true" object="true" symbol="Fonts"/>
 </symbolTable>
 <localVars>
-<entry endPc="268436449" name="dc" stackId="1" startPc="268436407"/>
-<entry endPc="268436791" name="latestSugarField" stackId="5" startPc="268436453"/>
-<entry endPc="268436791" name="latestSugarTimeLabelField" stackId="6" startPc="268436453"/>
-<entry endPc="268436791" name="dateString" stackId="3" startPc="268436453"/>
-<entry endPc="268436791" name="data" stackId="1" startPc="268436453"/>
-<entry endPc="268436791" name="latestSugarTimeField" stackId="7" startPc="268436453"/>
-<entry endPc="268436791" name="latestSugarLabelField" stackId="4" startPc="268436453"/>
-<entry endPc="268436791" name="mmol" stackId="2" startPc="268436453"/>
-<entry endPc="268436817" name="dc" stackId="1" startPc="268436792"/>
-<entry endPc="268435634" name="options" stackId="2" startPc="268435521"/>
-<entry endPc="268435634" name="url" stackId="1" startPc="268435521"/>
-<entry endPc="268435891" name="dateString" stackId="5" startPc="268435710"/>
-<entry endPc="268435891" name="mmol" stackId="4" startPc="268435710"/>
-<entry endPc="268435912" name="parsedData" stackId="3" startPc="268435639"/>
-<entry endPc="268435913" name="responseCode" stackId="1" startPc="268435635"/>
-<entry endPc="268435913" name="data" stackId="2" startPc="268435635"/>
-<entry endPc="268436920" name="item" stackId="1" startPc="268436845"/>
-<entry endPc="268435941" name="state" stackId="1" startPc="268435936"/>
-<entry endPc="268435946" name="state" stackId="1" startPc="268435941"/>
-<entry endPc="268436345" name="data" stackId="1" startPc="268436236"/>
-<entry endPc="268437753" name="rez_cmp_local_bitmap_LatestSugarTime" stackId="4" startPc="268437174"/>
-<entry endPc="268437753" name="rez_cmp_local_bitmap_LatestSugarTimeLabel" stackId="5" startPc="268437174"/>
-<entry endPc="268437753" name="rez_cmp_local_bitmap_LatestSugar" stackId="2" startPc="268437174"/>
-<entry endPc="268437753" name="rez_cmp_local_bitmap_LatestSugarLabel" stackId="3" startPc="268437174"/>
-<entry endPc="268437754" name="dc" stackId="1" startPc="268437162"/>
+<entry endPc="268436475" name="dc" stackId="1" startPc="268436433"/>
+<entry endPc="268437380" name="rowHeight" stackId="9" startPc="268436479"/>
+<entry endPc="268437380" name="center" stackId="3" startPc="268436479"/>
+<entry endPc="268437380" name="timeField" stackId="10" startPc="268436479"/>
+<entry endPc="268437380" name="info" stackId="1" startPc="268436479"/>
+<entry endPc="268437380" name="ds" stackId="2" startPc="268436479"/>
+<entry endPc="268437380" name="latestSugarField" stackId="15" startPc="268436479"/>
+<entry endPc="268437380" name="doubleUpLastLine" stackId="7" startPc="268436479"/>
+<entry endPc="268437380" name="fieldBuffer" stackId="4" startPc="268436479"/>
+<entry endPc="268437380" name="data" stackId="12" startPc="268436479"/>
+<entry endPc="268437380" name="bottomRowBuffer" stackId="8" startPc="268436479"/>
+<entry endPc="268437380" name="iconSizeWithBuffer" stackId="11" startPc="268436479"/>
+<entry endPc="268437380" name="mmolTimeString" stackId="14" startPc="268436479"/>
+<entry endPc="268437380" name="mmol" stackId="13" startPc="268436479"/>
+<entry endPc="268437380" name="fieldHeightDelta" stackId="6" startPc="268436479"/>
+<entry endPc="268437380" name="lineCount" stackId="5" startPc="268436479"/>
+<entry endPc="268438410" name="barLineStop" stackId="21" startPc="268438152"/>
+<entry endPc="268438410" name="ratio" stackId="20" startPc="268438152"/>
+<entry endPc="268438595" name="mmol" stackId="23" startPc="268437385"/>
+<entry endPc="268438595" name="mmolTimeString" stackId="24" startPc="268437385"/>
+<entry endPc="268438595" name="moveBar" stackId="16" startPc="268437385"/>
+<entry endPc="268438595" name="phoneConnect" stackId="11" startPc="268437385"/>
+<entry endPc="268438595" name="alarmCount" stackId="13" startPc="268437385"/>
+<entry endPc="268438595" name="timeString" stackId="5" startPc="268437385"/>
+<entry endPc="268438595" name="barLineStop" stackId="19" startPc="268437385"/>
+<entry endPc="268438595" name="batteryString" stackId="9" startPc="268437385"/>
+<entry endPc="268438595" name="latestSugarField" stackId="25" startPc="268437385"/>
+<entry endPc="268438595" name="battery" stackId="8" startPc="268437385"/>
+<entry endPc="268438595" name="mBarLine" stackId="17" startPc="268437385"/>
+<entry endPc="268438595" name="clockTime" stackId="3" startPc="268437385"/>
+<entry endPc="268438595" name="warningBarWidth" stackId="15" startPc="268437385"/>
+<entry endPc="268438595" name="ds" stackId="10" startPc="268437385"/>
+<entry endPc="268438595" name="msgCount" stackId="12" startPc="268437385"/>
+<entry endPc="268438595" name="hours" stackId="4" startPc="268437385"/>
+<entry endPc="268438595" name="info" stackId="2" startPc="268437385"/>
+<entry endPc="268438595" name="timeField" stackId="6" startPc="268437385"/>
+<entry endPc="268438595" name="stats" stackId="7" startPc="268437385"/>
+<entry endPc="268438595" name="barLineStart" stackId="18" startPc="268437385"/>
+<entry endPc="268438595" name="data" stackId="22" startPc="268437385"/>
+<entry endPc="268438595" name="standardBarWidth" stackId="14" startPc="268437385"/>
+<entry endPc="268438596" name="dc" stackId="1" startPc="268437381"/>
+<entry endPc="268435592" name="options" stackId="2" startPc="268435500"/>
+<entry endPc="268435592" name="url" stackId="1" startPc="268435500"/>
+<entry endPc="268435836" name="gregorian" stackId="7" startPc="268435611"/>
+<entry endPc="268435836" name="date" stackId="5" startPc="268435611"/>
+<entry endPc="268435836" name="timeString" stackId="8" startPc="268435611"/>
+<entry endPc="268435836" name="moment" stackId="6" startPc="268435611"/>
+<entry endPc="268435836" name="mmol" stackId="4" startPc="268435611"/>
+<entry endPc="268435857" name="parsedData" stackId="3" startPc="268435597"/>
+<entry endPc="268435858" name="responseCode" stackId="1" startPc="268435593"/>
+<entry endPc="268435858" name="data" stackId="2" startPc="268435593"/>
+<entry endPc="268438694" name="item" stackId="1" startPc="268438619"/>
+<entry endPc="268435886" name="state" stackId="1" startPc="268435881"/>
+<entry endPc="268435891" name="state" stackId="1" startPc="268435886"/>
+<entry endPc="268436176" name="data" stackId="1" startPc="268436106"/>
+<entry endPc="268441524" name="rez_cmp_local_bitmap_Distance" stackId="10" startPc="268438948"/>
+<entry endPc="268441524" name="rez_cmp_local_bitmap_HeartRate_fontHeight" stackId="15" startPc="268438948"/>
+<entry endPc="268441524" name="rez_cmp_local_bitmap_Time_fontHeight" stackId="19" startPc="268438948"/>
+<entry endPc="268441524" name="rez_cmp_local_bitmap_Battery" stackId="20" startPc="268438948"/>
+<entry endPc="268441524" name="rez_cmp_local_bitmap_CaloriesLabel" stackId="8" startPc="268438948"/>
+<entry endPc="268441524" name="rez_cmp_local_bitmap_Time" stackId="18" startPc="268438948"/>
+<entry endPc="268441524" name="rez_cmp_local_bitmap_HeartRate" stackId="14" startPc="268438948"/>
+<entry endPc="268441524" name="rez_cmp_local_bitmap_LatestSugar" stackId="21" startPc="268438948"/>
+<entry endPc="268441524" name="rez_cmp_local_bitmap_StepsLabel_fontHeight" stackId="5" startPc="268438948"/>
+<entry endPc="268441524" name="rez_cmp_local_bitmap_HeartRateLabel" stackId="16" startPc="268438948"/>
+<entry endPc="268441524" name="rez_cmp_local_bitmap_StepsLabel" stackId="4" startPc="268438948"/>
+<entry endPc="268441524" name="rez_cmp_local_bitmap_CaloriesLabel_fontHeight" stackId="9" startPc="268438948"/>
+<entry endPc="268441524" name="rez_cmp_local_bitmap_DistanceLabel_fontHeight" stackId="13" startPc="268438948"/>
+<entry endPc="268441524" name="rez_cmp_local_bitmap_Distance_fontHeight" stackId="11" startPc="268438948"/>
+<entry endPc="268441524" name="rez_cmp_local_bitmap_Steps_fontHeight" stackId="3" startPc="268438948"/>
+<entry endPc="268441524" name="rez_cmp_local_bitmap_Calories" stackId="6" startPc="268438948"/>
+<entry endPc="268441524" name="rez_cmp_local_bitmap_HeartRateLabel_fontHeight" stackId="17" startPc="268438948"/>
+<entry endPc="268441524" name="rez_cmp_local_bitmap_DistanceLabel" stackId="12" startPc="268438948"/>
+<entry endPc="268441524" name="rez_cmp_local_bitmap_Steps" stackId="2" startPc="268438948"/>
+<entry endPc="268441524" name="rez_cmp_local_bitmap_Calories_fontHeight" stackId="7" startPc="268438948"/>
+<entry endPc="268441525" name="dc" stackId="1" startPc="268438936"/>
 </localVars>
 <annotations/>
 <functions>
@@ -178,17 +377,14 @@
 </functionEntry>
 <functionEntry accessMode="public" name="onLayout" parent="BGConnectUIView">
 <param id="dc"/>
-<documentation/>
+<documentation><![CDATA[<div class="description"> Load your resources here<br/></div>]]></documentation>
 </functionEntry>
 <functionEntry accessMode="public" name="onShow" parent="BGConnectUIView">
-<documentation/>
+<documentation><![CDATA[<div class="description"> Called when this View is brought to the foreground. Restore<br/> the state of this View and prepare it to be shown. This includes<br/> loading resources into memory.<br/></div>]]></documentation>
 </functionEntry>
 <functionEntry accessMode="public" name="onUpdate" parent="BGConnectUIView">
 <param id="dc"/>
-<documentation/>
-</functionEntry>
-<functionEntry accessMode="public" name="onHide" parent="BGConnectUIView">
-<documentation/>
+<documentation><![CDATA[<div class="description"> Update the view<br/></div>]]></documentation>
 </functionEntry>
 <functionEntry accessMode="public" name="initialize" parent="BGConnectUIServiceDelegate">
 <documentation/>
@@ -250,16 +446,16 @@
 <dataEntry offset="87" parentId="" symbolId="globals" type="module"/>
 <dataEntry offset="214" parentId="globals" symbolId="BGConnectUIServiceDelegate" type="class"/>
 <dataEntry offset="285" parentId="globals" symbolId="BGConnectUI" type="class"/>
-<dataEntry offset="1111" parentId="globals" symbolId="BGConnectUIMenuDelegate" type="class"/>
-<dataEntry offset="1166" parentId="globals" symbolId="BGConnectUIDelegate" type="class"/>
-<dataEntry offset="1221" parentId="globals" symbolId="Rez" type="module"/>
-<dataEntry offset="1300" parentId="Rez" symbolId="Drawables" type="module"/>
-<dataEntry offset="1339" parentId="Rez" symbolId="Menus" type="module"/>
-<dataEntry offset="1378" parentId="Menus" symbolId="MainMenu" type="class"/>
-<dataEntry offset="1425" parentId="Rez" symbolId="Fonts" type="module"/>
-<dataEntry offset="1456" parentId="Rez" symbolId="JsonData" type="module"/>
-<dataEntry offset="1487" parentId="Rez" symbolId="Layouts" type="module"/>
-<dataEntry offset="1526" parentId="Rez" symbolId="Strings" type="module"/>
-<dataEntry offset="1589" parentId="globals" symbolId="BGConnectUIView" type="class"/>
+<dataEntry offset="916" parentId="globals" symbolId="BGConnectUIMenuDelegate" type="class"/>
+<dataEntry offset="971" parentId="globals" symbolId="BGConnectUIDelegate" type="class"/>
+<dataEntry offset="1026" parentId="globals" symbolId="Rez" type="module"/>
+<dataEntry offset="1105" parentId="Rez" symbolId="Drawables" type="module"/>
+<dataEntry offset="1176" parentId="Rez" symbolId="Menus" type="module"/>
+<dataEntry offset="1215" parentId="Menus" symbolId="MainMenu" type="class"/>
+<dataEntry offset="1262" parentId="Rez" symbolId="Fonts" type="module"/>
+<dataEntry offset="1293" parentId="Rez" symbolId="JsonData" type="module"/>
+<dataEntry offset="1324" parentId="Rez" symbolId="Layouts" type="module"/>
+<dataEntry offset="1363" parentId="Rez" symbolId="Strings" type="module"/>
+<dataEntry offset="1490" parentId="globals" symbolId="BGConnectUIView" type="class"/>
 </dataEntryOffsetMappings>
 </debugInfo>

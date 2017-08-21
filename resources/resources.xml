@@ -1,0 +1,8 @@
+<resources>
+    <bitmaps>
+        <bitmap id="alarm" filename="images/ic_alarm_on_white_24dp_1x.png"/>
+        <bitmap id="bluetooth" filename="images/ic_bluetooth_white_24dp_1x.png"/>
+        <bitmap id="mail" filename="images/ic_mail_outline_white_24dp_1x.png"/>
+        <bitmap id="battery" filename="images/ic_battery_full_white_24dp_2x.png"/>
+    </bitmaps>
+</resources>

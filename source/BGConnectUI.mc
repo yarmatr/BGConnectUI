@@ -27,13 +27,10 @@ class BGConnectUI extends App.AppBase {
     		Sys.println("****background not available on this device****");
     	}
     	
-    	Sys.println("****existing data****");
-    	Sys.println(Background.getBackgroundData());
         return [ new BGConnectUIView() ];
     }
     
     function getServiceDelegate() {
-    	Sys.println("****setting service delegate****");
     	return [new BGConnectUIServiceDelegate()];
     }
     
@@ -43,8 +40,6 @@ class BGConnectUI extends App.AppBase {
 	    } else {
 	        //got good “data”
 	    }
-	    Sys.println("*****data received*****");
-	    Sys.println(data);
 	    
         App.getApp().setProperty("BGDATA", data);
         Ui.requestUpdate();  

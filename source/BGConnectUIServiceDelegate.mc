@@ -1,12 +1,12 @@
 using Toybox.Background;
 using Toybox.Communications as Comm;
 using Toybox.System;
+using Toybox.Time;
+using Toybox.Time.Gregorian;
 
 (:background)
 class BGConnectUIServiceDelegate extends System.ServiceDelegate {
 	function initialize() {
-		System.println("****initializing service delegate****");
-		// makeWebRequest();
         ServiceDelegate.initialize();
     }
 
@@ -17,9 +17,7 @@ class BGConnectUIServiceDelegate extends System.ServiceDelegate {
         makeWebRequest();
     }
 
-	function makeWebRequest() {
-		System.println("****making web request****");
-		
+	function makeWebRequest() {		
 		var url = "https://floating-shore-70452.herokuapp.com/api/v1/entries.json?count=1";                          // set the url
 
 		var options = {                                               // set the options
@@ -40,25 +38,19 @@ class BGConnectUIServiceDelegate extends System.ServiceDelegate {
         // Do stuff with the response data here and send the data
         // payload back to the app that originated the background
         // process.
-        System.println("****handling response callback****");
-        System.println(responseCode);
-        System.println(data);
-        
         var parsedData = null;
         
         // divide mg/dL by 18 to get mmol/L
         if (responseCode == 200) {
-        	System.println("****inside data check****");
-        	System.println(data[0]);
-        	var mmol = data[0].get("sgv") / 18;
-        	System.println(mmol);
-        	var dateString = data[0].get("dateString");
-        	System.println(dateString);
-        	parsedData = {
-        		"mmol" => mmol, 
-        		"dateString" => dateString
+        	var mmol = data[0].get("sgv").toFloat() / 18;
+        	var date = data[0].get("date") / 1000;
+        	var moment = new Time.Moment(date);
+        	var gregorian = Gregorian.info(moment, Time.FORMAT_MEDIUM);
+        	var timeString = gregorian.hour.format("%02d") + ":" + gregorian.min.format("%02d");
+        	parsedData = {        		
+        		"mmol" => mmol.format("%02.2f"), 
+        	 	"timeString" => timeString
         	};
-        	System.println(parsedData);
         }
         
         Background.exit(parsedData);
